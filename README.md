@@ -1,6 +1,6 @@
 # Lecture Notes on Neural Networks and Machine Learning for Mathematicians and Physicists
 
-Lecture Notes by **Fabian Ruehle**  
+[lecture Notes](LectureNotes.pdf) by **Fabian Ruehle**  
 🗓️ *May 5 - 16, 2025*
 
 <p align="center">
