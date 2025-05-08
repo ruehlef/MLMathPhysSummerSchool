@@ -4,9 +4,9 @@ Lecture Notes by **Fabian Ruehle**
 🗓️ *May 5 - 16, 2025*
 
 <p align="center">
-  <img src="img/NNTraining.png" height="150">
-  <img src="img/VAE.png" height="150">
-  <img src="img/RL.png" height="150">
+  <img src="img/NNTraining.png" height="250", style="padding: 10px;">
+  <img src="img/VAE.png" height="250", style="padding: 10px;">
+  <img src="img/RL.png" height="250", style="padding: 10px;">
 </p>
 
 This repo contains material I designed for a two-week introductory summer school on Machine Learning. The program is designed for graduate students in Mathematics and Physics with no prior knowledge of this fast-developing area who are interested in how ML techniques can enhance their research and career, whether in academia or industry. The program will focus on Neural Networks and their applications to Mathematics and Physics. Participants will also gain hands-on experience by completing a week-long project in a group and giving a presentation on the last day of the program.
