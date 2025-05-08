@@ -19,6 +19,8 @@ The chapters come with coding tutorials:
 - [Generative Example: Variational Auto-Encoder](Tutorial%203%20-%20Generative%20Model.ipynb)
 - [Reinforcement Learning Example: 1D Ising Model](Tutorial%204%20-%20Intro%20to%20RL.ipynb)
 
+These notebooks were tested with python 3.12, pytorch 2.7.0, stable-baselines3 2.6.0, and gymnasium 1.1.1.
+
 ---
 
 ## Table of Contents
