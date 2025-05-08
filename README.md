@@ -14,10 +14,10 @@ This repo contains material I designed for a two-week introductory summer school
 The topics covered in this class  range from the basics of neural networks to modern training strategies, architectures, generative models, and reinforcement learning.
 
 The chapters come with coding tutorials:
-- [Intro to NNs and Optimization](Tutorial 1 - Intro to NNs.ipynb)
-- [Architecture Example: Convolutional NN](Tutorial 2 - NN Architectures.ipynb)
-- [Generative Example: Variational Auto-Encoder](Tutorial 3 - Generative Model.ipynb)
-- [Reinforcement Learning Example: 1D Ising Model](Tutorial 4 - Intro to RL.ipynb)
+- [Intro to NNs and Optimization](Tutorial%201%20-%20Intro%20to%20NNs.ipynb)
+- [Architecture Example: Convolutional NN](Tutorial%202%20-%20NN%20Architectures.ipynb)
+- [Generative Example: Variational Auto-Encoder](Tutorial%203%20-%20Generative%20Model.ipynb)
+- [Reinforcement Learning Example: 1D Ising Model](Tutorial%204%20-%20Intro%20to%20RL.ipynb)
 
 ---
 
